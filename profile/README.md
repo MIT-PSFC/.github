@@ -1,2 +1,6 @@
-# MIT Plasma Science and Fusion Center
-# if you want co pilot apply for free academic access
+![MIT](../images/mit.jpg)
+![PSFC](../images/psfc.png)
+
+---
+
+In order to be added to the Organization, please contact your MIT PSFC host.
