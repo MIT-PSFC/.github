@@ -1,5 +1,5 @@
-![MIT](../images/mit.jpg)
-![PSFC](../images/psfc.png)
+![MIT](/images/mit.jpg)
+![PSFC](/images/psfc.png)
 
 ---
 
