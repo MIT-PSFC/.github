@@ -1,5 +1,4 @@
-![MIT](/images/mit.jpg)
-![PSFC](/images/psfc.png)
+![MIT PSFC](/images/MIT-PSFC-2024-two-line-red.png)
 
 ---
 
